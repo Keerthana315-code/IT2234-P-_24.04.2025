@@ -1,0 +1,2 @@
+db.students.find({'gender':'male','degree':'ICT'}).sort({'gpa':1})
+db.students.find({"gender":"Female"})
